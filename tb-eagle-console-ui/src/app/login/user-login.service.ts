@@ -28,7 +28,6 @@ export class UserLoginService {
       username: userName,
       password: userPassword
     };
-
     return this.http.post<User>(url, params, { headers });
   }
 
