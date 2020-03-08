@@ -13,4 +13,5 @@ To run Eagle console locally
 **User credentials for the mock service:**
 
 > User = admin@yourcompany.com
+
 > Password = pass1
